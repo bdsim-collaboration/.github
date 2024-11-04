@@ -1,1 +1,1 @@
-# .github
+# Welcome to the BDSIM collaboration
