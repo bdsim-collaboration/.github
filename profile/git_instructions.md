@@ -12,3 +12,6 @@
 ![Create fork](./GitStarting_3_CloneFork.png)
 
 1. `git clone YOUR_FORK_URL`
+1. Add BDSIM as upstream `git remote add upstream git@github.com:bdsim-collaboration/bdsim.git`
+1. Fetch upstream `git fetch upstream` 
+
