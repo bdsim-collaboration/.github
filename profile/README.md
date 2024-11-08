@@ -1,4 +1,4 @@
-#Welcome to the BDSIM collaboration  👋
+# Welcome to the BDSIM collaboration  👋
 
 ![OpenGL visualisation of a BDSIM accelerator](./images/homepage_image.png)
 
