@@ -10,4 +10,4 @@ If you wish to notified about BDSIM developments consider signing up to the mail
 1. [git starting instructions](./git_starting.md)
 1. [git feature branch](./git_feature_branch.md) Writing your own code 
 1. [git rebase instructions](./git_rebase.md) When the main BDSIM code has been updated
-1. [git pull request)() When you wish to integrate you changes back to BDSIM
+1. [git pull request)(./git_pr.md) When you wish to integrate you changes back to BDSIM
